@@ -36,14 +36,16 @@ p { line-height: 1.4rem;
     text-indent: 1rem; }
 
 blockquote { margin: 3rem 0;
-             padding-left: 6rem;
-             padding-right: 6rem;
+             padding-left: 3rem;
+             padding-right: 3rem;
              line-height: 1.4rem;
              font-size: 1.2rem; }
 
 blockquote footer { text-align: right; }
 
 ol, ul { padding-left: 1rem; }
+
+ul { list-style: none; }
 
 li { margin: 1rem 0; }
 
@@ -61,3 +63,6 @@ span.smallcaps { font-size: 0.98rem;
                  font-weight: 600; }
 
 p.begin { text-indent: 0; }
+
+p.ref { text-indent: 0;
+        font-size: 1rem; }
