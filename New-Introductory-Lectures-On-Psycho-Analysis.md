@@ -1,36 +1,48 @@
-<h1>
-  New  
-  Introductory  
-  Lectures On   
-  Psycho-analysis
-</h1>
+% New Introductory Lectures On Psycho-Analysis
+% Sigmund Freud
+% 1933
 
-<h2>
-  [by]{.normal}  
-  Sigmund Freud, M.D., LL.D.
-<h2>
+<section id="title" class="level1">
+  <h1>
+    New  
+    Introductory  
+    Lectures On   
+    Psycho-analysis
+  </h1>
 
-<h2>
-  [New York]{.normal}  
-  Carlton House
-</h2>
+  <p class="author">
+    [by]{.normal}  
+    Sigmund Freud, M.D., LL.D.
+  </p>
 
-### Garg Book O. Jaipur. ###
+  <p class="publisher">
+    [New York]{.normal}  
+    Carlton House
+  </p>
 
-# #
+  <p class="company">
+    Garg Book O. Jaipur.
+  </p>
+</section>
 
-<h3>
-  [*Copyright, 1933, by*]{.normal}  
-  Sigmund Freud
-</h3>
+<section id="colophon" class="level1">
+  <p class="copyright">
+    [*Copyright, 1933, by*]{.normal}  
+    Sigmund Freud
+  </p>
 
-### Printed In The United States Of America ###
+  <p class="printed">
+    Printed In The United States Of America
+  </p>
 
-### Digitised By Czerwonamaupa ###
+  <p class="digitised">
+    Digitised By Czerwonamaupa
+  </p>
+</section>
 
 # Contents #
 
-<h2 class="contents">
+<h2 class=contents>
   * [Preface](#preface)
   1. [Revision Of The Theory Of Dreams, Lecture XXIX](#chapter-1)
   2. [Dreams And The Occult, Lecture XXX](#chapter-2)
@@ -43,9 +55,7 @@
 
 # Preface #
 
-<p class="begin">
-  [My]{.smallcaps} *Introductory Lectures on Psycho-Analysis* were delivered in the two winter terms of 1915-16 and 1916-17 in one of the lecture-rooms of the Vienna Psychiatrical Clinic, before an audience composed of members and students of every Faculty. The first half of the lectures were improvised, and written down immediately afterwards; the second half were composed during an intervening summer vacation in Salzburg, and were delivered word for word in the following winter. In those days I still possessed the gift of a phonographic memory.
-</p>
+[My]{.smallcaps} *Introductory Lectures on Psycho-Analysis* were delivered in the two winter terms of 1915-16 and 1916-17 in one of the lecture-rooms of the Vienna Psychiatrical Clinic, before an audience composed of members and students of every Faculty. The first half of the lectures were improvised, and written down immediately afterwards; the second half were composed during an intervening summer vacation in Salzburg, and were delivered word for word in the following winter. In those days I still possessed the gift of a phonographic memory.
 
 In contradistinction to them, these new lectures have never been delivered. My age has in the meantime relieved me of the duty of marking my membership of the University—even though the relation is only a peripheral one—by giving lectures; and a surgical operation has rendered me incapable of addressing an audience. It is therefore only in imagination that I picture myself once more in the lecture-room as I write out what follows; it may help me not to forget my duty to the reader as I delve deeper into my subject.
 
@@ -59,7 +69,7 @@ Any one who loves the science of the mind must accept these hardships as well.
   Freud
 </p>
 
-<p class="begin">
+<p class="date">
   [Vienna,]{.smallcaps}  
   *Summer* 1932
 </p>
@@ -68,9 +78,7 @@ Any one who loves the science of the mind must accept these hardships as well.
 
 ## Revision Of The Theory Of Dreams, Lecture XXIX ##
 
-<p class="begin">
-  [Ladies and gentlemen]{.smallcaps}—After a silence of more than fifteen years, I have brought you together again in order to discuss with you the new developments, or it may be improvements, which have taken place in psycho-analytic theory during the interval. From more than one point of view it is right and proper that we should turn our attention, in the first place, to the theory of dreams. This theory occupies a peculiar position in the history of psycho-analysis; it marks a turning-point. With the theory of dreams, analysis passed from being a psycho-therapeutic method to being a psychology of the depths of human nature. Ever since then the theory of dreams has remained the most characteristic and the most peculiar feature of the young science, something which has no parallel in the rest of scientific knowledge, a new found land, which has been reclaimed from the regions of Folklore and Mysticism. The strangeness of the ideas which are necessarily involved in it has made it into a shibboleth, the use of which distinguishes those who might become believers in psycho-analysis from those who are incapable of comprehending it. Speaking for myself, I always found it a thing I could hold on to during those difficult times when the unsolved problems of the neuroses used to confuse my inexperienced judgment. Whenever I began to have doubts about the correctness of my tentative conclusions, the moment I managed to translate a senseless and complicated dream into a clear and intelligible mental process in the dreamer, I felt, with renewed confidence, that I was on the right track.
-</p>
+[Ladies and gentlemen]{.smallcaps}—After a silence of more than fifteen years, I have brought you together again in order to discuss with you the new developments, or it may be improvements, which have taken place in psycho-analytic theory during the interval. From more than one point of view it is right and proper that we should turn our attention, in the first place, to the theory of dreams. This theory occupies a peculiar position in the history of psycho-analysis; it marks a turning-point. With the theory of dreams, analysis passed from being a psycho-therapeutic method to being a psychology of the depths of human nature. Ever since then the theory of dreams has remained the most characteristic and the most peculiar feature of the young science, something which has no parallel in the rest of scientific knowledge, a new found land, which has been reclaimed from the regions of Folklore and Mysticism. The strangeness of the ideas which are necessarily involved in it has made it into a shibboleth, the use of which distinguishes those who might become believers in psycho-analysis from those who are incapable of comprehending it. Speaking for myself, I always found it a thing I could hold on to during those difficult times when the unsolved problems of the neuroses used to confuse my inexperienced judgment. Whenever I began to have doubts about the correctness of my tentative conclusions, the moment I managed to translate a senseless and complicated dream into a clear and intelligible mental process in the dreamer, I felt, with renewed confidence, that I was on the right track.
 
 It is therefore of especial interest for us to follow, in regard to this particular matter of the theory of dreams, what changes psycho-analysis has undergone during the interval I have mentioned, and what progress it has made in gaining appreciation and understanding from contemporary thought. I may as well tell you straight away that you will be disappointed in both directions.
 
@@ -146,9 +154,7 @@ Only two serious difficulties face the wish-fulfilment theory of dreams, the exa
 
 ## Dreams And The Occult, Lecture XXX ##
 
-<p class="begin">
-  [Ladies and gentlemen]{.smallcaps}—To-day we are to travel along a narrow path, but it may lead us to a wide prospect.
-</p>
+[Ladies and gentlemen]{.smallcaps}—To-day we are to travel along a narrow path, but it may lead us to a wide prospect.
 
 When you hear that I am going to talk about the connection between dreams and the occult, you need hardly feel surprised. Dreams are indeed often regarded as the portal to the world of mysticism, and even to-day seem to many to be in themselves an occult phenomenon. Even we, who have made them an object of scientific study, cannot deny that several strands link them up with those obscure regions. Mysticism—Occultism—what is meant by these terms? Do not imagine that I shall attempt to provide you with a clear definition of such hazy concepts. In a general and vague way we all know what we mean by the terms. They refer to a kind of ‘other world’ which lies beyond the clear world, with its inexorable laws, which science has built up for us.
 
@@ -240,9 +246,7 @@ And with that we return to our starting-point—the study of psycho-analysis.
 
 ## The Anatomy Of The Mental Personality, Lecture XXXI ##
 
-<p class="begin">
-  [Ladies and gentlemen]{.smallcaps}—I am sure you all recognise in your dealings, whether with persons or things, the importance of your starting-point. It was the same with psycho-analysis: the course of development through which it has passed, and the reception which it has met with have not been unaffected by the fact that what it began working upon was the symptom, a thing which is more foreign to the ego than anything else in the mind. The symptom has its origin in the repressed, it is as it were the representative of the repressed in relation to the ego; the repressed is a foreign territory to the ego, an internal foreign territory, just as reality is—you must excuse the unusual expression—an external foreign territory. From the symptom the path of psycho-analysis led to the unconscious, to the life of the instincts, to sexuality, and it was then that psycho-analysis was met by illuminating criticisms to the effect that man is not merely a sexual being but has nobler and higher feelings. It might have been added that, supported by the consciousness of those higher feelings, he often allowed himself the right to think nonsense and to overlook facts.
-</p>
+[Ladies and gentlemen]{.smallcaps}—I am sure you all recognise in your dealings, whether with persons or things, the importance of your starting-point. It was the same with psycho-analysis: the course of development through which it has passed, and the reception which it has met with have not been unaffected by the fact that what it began working upon was the symptom, a thing which is more foreign to the ego than anything else in the mind. The symptom has its origin in the repressed, it is as it were the representative of the repressed in relation to the ego; the repressed is a foreign territory to the ego, an internal foreign territory, just as reality is—you must excuse the unusual expression—an external foreign territory. From the symptom the path of psycho-analysis led to the unconscious, to the life of the instincts, to sexuality, and it was then that psycho-analysis was met by illuminating criticisms to the effect that man is not merely a sexual being but has nobler and higher feelings. It might have been added that, supported by the consciousness of those higher feelings, he often allowed himself the right to think nonsense and to overlook facts.
 
 You know better than that. From the very beginning our view was that men fall ill owing to the conflict between the demands of their instincts and the internal resistance which is set up against them; not for a moment did we forget this resisting, rejecting and repressing factor, which we believed to be furnished with its own special forces, the ego-instincts, and which corresponds to the ego of popular psychology. The difficulty was that, since the progress of all scientific work is necessarily laborious, psycho-analysis could not study every part of the field at once or make a pronouncement on every problem in one breath. At last we had got so far that we could turn our attention from the repressed to the repressing forces, and we came face to face with the ego, which seemed to need so little explanation, with the certain expectation that there, too, we should find things for which we could not have been prepared; but it was not easy to find a first method of approach. That is what I am going to talk to you about to-day.
 
@@ -310,9 +314,7 @@ It is reclamation work, like the draining of the Zuyder Zee.
 
 ## Anxiety And Instinctual Life, Lecture XXXII ##
 
-<p class="begin">
-  [Ladies and gentlemen]{.smallcaps}—You will not be surprised to hear that I have a great deal of new information to give you about our hypotheses on the subject of anxiety and the fundamental instincts of the mind, and also that none of this information claims to provide a final solution of these doubtful problems. I speak purposely of ‘hypotheses.’ This is the most difficult task that has been set us, but the difficulty does not lie in the incompleteness of our observations, for it is actually the commonest and most familiar phenomena that present us with such riddles; nor does it lie in the remoteness of the speculations to which these phenomena give rise, for speculation hardly comes into the picture in this connection. No, it is genuinely a question of hypotheses; that is to say, of the introduction of the right abstract ideas, and of their application to the raw material of observation so as to bring order and lucidity into it.
-</p>
+[Ladies and gentlemen]{.smallcaps}—You will not be surprised to hear that I have a great deal of new information to give you about our hypotheses on the subject of anxiety and the fundamental instincts of the mind, and also that none of this information claims to provide a final solution of these doubtful problems. I speak purposely of ‘hypotheses.’ This is the most difficult task that has been set us, but the difficulty does not lie in the incompleteness of our observations, for it is actually the commonest and most familiar phenomena that present us with such riddles; nor does it lie in the remoteness of the speculations to which these phenomena give rise, for speculation hardly comes into the picture in this connection. No, it is genuinely a question of hypotheses; that is to say, of the introduction of the right abstract ideas, and of their application to the raw material of observation so as to bring order and lucidity into it.
 
 I devoted one lecture in my former series—the twenty-fifth—to the study of anxiety. I must recapitulate its contents in brief. We said then that anxiety is an affective condition—that is to say, a combination of certain feelings of the pleasure-pain series with their corresponding efferent innervations, and a perception of them—but we asserted that anxiety is probably also the trace of a certain important event, taken over by inheritance, and therefore comparable to the ontogenetically acquired hysterical attack. We suggested that the event which left this affective trace behind it was the process of birth, in which the modifications of the heart’s action and of respiration, which are characteristic of anxiety, served a useful purpose. The first anxiety of all would thus have been a toxic one. We then started from the distinction between objective anxiety and neurotic anxiety, the former being what seems to us an intelligible reaction to danger—that is, to anticipated injury from without—and the latter altogether puzzling and, as it were, purposeless. In our analysis of objective anxiety we explained it as a condition of increased sensory attention and motor tension, which we called ‘*anxiety-preparedness*’ Out of this the anxiety-reaction arises. The anxiety-reaction may run one of two courses. Either the *anxiety-development*, the repetition of the old traumatic experience, is restricted to a signal, in which case the rest of the reaction can adapt itself to the new situation of danger, whether by flight or defence; or the old experience gets the upper hand, and the whole reaction exhausts itself in anxiety-development, in which case the affective state is paralysing and unadapted to the present situation.
 
@@ -390,9 +392,7 @@ People in whom this unconscious sense of guilt is dominant, distinguish themselv
 
 ## The Psychology Of Women, Lecture XXXIII ##
 
-<p class="begin">
-  [Ladies and gentlemen]{.smallcaps}—The whole time that I have been preparing the lectures I am giving you, I have been struggling with an internal difficulty. I feel, as one might say, uncertain of the terms of my licence. It is quite true that in the course of fifteen years’ work, psycho-analysis has altered and grown; but in spite of that, an introduction to psycho-analysis might be left unchanged and unexpanded. It is always at the back of my mind that there is no *raison d’étre* for these lectures. For analysts I say too little and nothing at all that is new, while to you I say too much and relate things which you are not in a position to understand and which are not for your ears. I have looked about for excuses, and have tried to justify each of my lectures on different grounds. The first, the one about the theory of dreams, was intended to put you back at once into the atmosphere of analysis, and to show you how durable our hypotheses have proved themselves to be. I was tempted to give the second, which traced the connection between dreams and the so-called occult, by the opportunity it afforded of saying something about a field of research in which at the present time prejudiced expectation is struggling against passionate opposition; and I allowed myself to hope that you would not refuse me your company on this expedition, but would follow me with a judgment educated to tolerance by example of psycho-analysis. The third lecture, which dealt with the anatomy of the personality, certainly made the severest demands upon you, so strange was its subject-matter; but it was quite impossible for me to withhold from you this first contribution to ego-psychology, and, if we had been in possession of the material fifteen years ago, I should have had to mention it then. Finally, the last lecture, which you have probably followed only with the greatest difficulty, contained some necessary emendations and new attempts at the solution of the most important problems; and my introduction would have been positively misleading if I had kept silent about them. You see how it is that when one tries to excuse oneself, it comes out in the end that everything was inevitable, that everything was pre-ordained. I submit to fate; and I beg that you will do the same.
-</p>
+[Ladies and gentlemen]{.smallcaps}—The whole time that I have been preparing the lectures I am giving you, I have been struggling with an internal difficulty. I feel, as one might say, uncertain of the terms of my licence. It is quite true that in the course of fifteen years’ work, psycho-analysis has altered and grown; but in spite of that, an introduction to psycho-analysis might be left unchanged and unexpanded. It is always at the back of my mind that there is no *raison d’étre* for these lectures. For analysts I say too little and nothing at all that is new, while to you I say too much and relate things which you are not in a position to understand and which are not for your ears. I have looked about for excuses, and have tried to justify each of my lectures on different grounds. The first, the one about the theory of dreams, was intended to put you back at once into the atmosphere of analysis, and to show you how durable our hypotheses have proved themselves to be. I was tempted to give the second, which traced the connection between dreams and the so-called occult, by the opportunity it afforded of saying something about a field of research in which at the present time prejudiced expectation is struggling against passionate opposition; and I allowed myself to hope that you would not refuse me your company on this expedition, but would follow me with a judgment educated to tolerance by example of psycho-analysis. The third lecture, which dealt with the anatomy of the personality, certainly made the severest demands upon you, so strange was its subject-matter; but it was quite impossible for me to withhold from you this first contribution to ego-psychology, and, if we had been in possession of the material fifteen years ago, I should have had to mention it then. Finally, the last lecture, which you have probably followed only with the greatest difficulty, contained some necessary emendations and new attempts at the solution of the most important problems; and my introduction would have been positively misleading if I had kept silent about them. You see how it is that when one tries to excuse oneself, it comes out in the end that everything was inevitable, that everything was pre-ordained. I submit to fate; and I beg that you will do the same.
 
 Nor should to-day’s lecture find a place in an introduction; but it may serve to give you an example of the detailed work of analysis, and there are two things I can add in its favour. It contains nothing but observed facts, with hardly any speculative additions, and it is concerned with a theme which claims your attention almost more than any other. Throughout the ages the problem of woman has puzzled people of every kind—
 
@@ -466,9 +466,7 @@ That is all I had to say to you about the psychology of women. It is admittedly 
 
 ## Explanations, Applications And Orientations, Lecture XXXIV ##
 
-<p class="begin">
-  [Ladies and gentleman]{.smallcaps}—May I for once, tired, as one might say, of dry topics, speak to you about matters which have very little theoretical importance, but which will be of interest to you in so far as you are friendlily disposed towards psycho-analysis? Let us suppose that in a moment of idleness you take up a German or American or English novel, in which you expect to find a description of men and conditions as they are to-day. After reading a few pages you come upon the first mention of psycho-analysis, and then soon after upon another, even though the context does not seem to require it. You must not imagine that this has anything to do with the application of ‘depth-psychology,’ with a view to a better understanding of the characters in the book or of their behaviour (though, of course, there are quite serious literary works in which this is attempted). No, such references are for the most part contemptuous remarks, by means of which the author seeks to display his wide reading or his intellectual superiority. And you will not always get the impression that he really knows what he is talking about. Or, again, you may go for your recreation to some social gathering; it need not necessarily be in Vienna. After a short time the conversation will turn on psycho-analysis, and you will hear a great variety of people giving their opinion upon it, usually in tones of dogmatic certainty. This judgment is nearly always a derogatory one, often abusive, and at the very least derisive. If you are so imprudent as to disclose the fact that you know something about the subject, every one rushes up to you, and asks for information and explanations, until after a little time you are convinced that all these severe judgments had been made in the absence of any knowledge; that hardly any of these adversaries have ever had a book about analysis in their hands, or, if they have, that they have never been able to overcome the first resistance which people experience on coming in contact with a new subject.
-</p>
+[Ladies and gentleman]{.smallcaps}—May I for once, tired, as one might say, of dry topics, speak to you about matters which have very little theoretical importance, but which will be of interest to you in so far as you are friendlily disposed towards psycho-analysis? Let us suppose that in a moment of idleness you take up a German or American or English novel, in which you expect to find a description of men and conditions as they are to-day. After reading a few pages you come upon the first mention of psycho-analysis, and then soon after upon another, even though the context does not seem to require it. You must not imagine that this has anything to do with the application of ‘depth-psychology,’ with a view to a better understanding of the characters in the book or of their behaviour (though, of course, there are quite serious literary works in which this is attempted). No, such references are for the most part contemptuous remarks, by means of which the author seeks to display his wide reading or his intellectual superiority. And you will not always get the impression that he really knows what he is talking about. Or, again, you may go for your recreation to some social gathering; it need not necessarily be in Vienna. After a short time the conversation will turn on psycho-analysis, and you will hear a great variety of people giving their opinion upon it, usually in tones of dogmatic certainty. This judgment is nearly always a derogatory one, often abusive, and at the very least derisive. If you are so imprudent as to disclose the fact that you know something about the subject, every one rushes up to you, and asks for information and explanations, until after a little time you are convinced that all these severe judgments had been made in the absence of any knowledge; that hardly any of these adversaries have ever had a book about analysis in their hands, or, if they have, that they have never been able to overcome the first resistance which people experience on coming in contact with a new subject.
 
 You may perhaps expect that an introduction to psycho-analysis should give you some indication of what arguments you should use in order to correct these vulgar errors about analysis, what books to recommend for those who want more knowledge, or even what examples from your reading and experience you should bring into the discussion in order to alter the attitude of your interlocutors. I beg you to do nothing of the sort. It would be quite useless, and your wisest course would be to hide your better knowledge altogether. If that is impossible, then restrict yourselves to saying that, so far as you know, psycho-analysis is a special branch of science, that it is exceedingly difficult to understand and to judge, that it is concerned with very serious matters, so that one cannot pass it off with a few jokes, and that it would be better to choose some other topic as a social pastime. Of course you will not take part in any attempts at interpretation if imprudent people repeat their dreams, and you will resist the temptation to curry favour for analysis by giving accounts of cures that it has brought about.
 
@@ -522,9 +520,7 @@ I have told you that psycho-analysis began as a therapeutic procedure, but it is
 
 ## A Philosophy Of Life, Lecture XXXV ##
 
-<p class="begin">
-  [Ladies and gentlemen]{.smallcaps}—In the last lecture we were occupied with trivial everyday affairs, with putting, as it were, our modest house in order. We will now take a bold step, and risk an answer to a question which has repeatedly been raised in non-analytic quarters, namely, the question whether psycho-analysis leads to any particular *Weltanschauung*, and if so, to what.
-</p>
+[Ladies and gentlemen]{.smallcaps}—In the last lecture we were occupied with trivial everyday affairs, with putting, as it were, our modest house in order. We will now take a bold step, and risk an answer to a question which has repeatedly been raised in non-analytic quarters, namely, the question whether psycho-analysis leads to any particular *Weltanschauung*, and if so, to what.
 
 ‘*Weltanschauung*’ is, I am afraid, a specifically German notion, which it would be difficult to translate into a foreign language. If I attempt to give you a definition of the word, it can hardly fail to strike you as inept. By *Weltanschauung*, then, I mean an intellectual construction, which gives a unified solution of all the problems of our existence in virtue of a comprehensive hypothesis, a construction, therefore, in which no question is left open and in which everything in which we are interested finds a place. It is easy to see that the possession of such a *Weltanschauung* is one of the ideal wishes of mankind. When one believes in such a thing, one feels secure in life, one knows what one ought to strive after, and how one ought to organise one’s emotions and interests to the best purpose.
 
