@@ -1,11 +1,19 @@
 @charset "UTF-8";
 
+html
+{ font-size: 0.7rem; }
+
 body
-{ width: 36rem;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 2rem 8rem 2rem;
+{ padding: 1rem;
   font-family: serif; }
+
+@media (min-width: 34rem)
+{ html
+    { font-size: 1rem; }
+
+  body
+  { width: 34rem;
+    margin: 0 auto; } }
 
 h1
 { font-weight: 400;
@@ -72,7 +80,8 @@ a:link
 
 img
 { margin: 2rem auto;
-  display: block; }
+  display: block;
+  max-width: 24rem; }
 
 p.sig
 { text-align: right;
