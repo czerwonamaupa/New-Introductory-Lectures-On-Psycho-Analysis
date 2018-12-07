@@ -13,7 +13,7 @@ index.html : New-Introductory-Lectures-On-Psycho-Analysis.md styles/index.css st
 styles/ebook.css : styles/index.css styles/epub.css
 	cat styles/index.css > styles/ebook.css && cat styles/epub.css >> styles/ebook.css
 
-ebooks/New-Introductory-Lectures-On-Psycho-Analysis.epub : New-Introductory-Lectures-On-Psycho-Analysis.md styles/index.css styles/ebook.css template.t cover.png
+ebooks/New-Introductory-Lectures-On-Psycho-Analysis.epub : New-Introductory-Lectures-On-Psycho-Analysis.md  styles/ebook.css template.t cover.png
 	pandoc \
 			-s \
 			--section-divs \
