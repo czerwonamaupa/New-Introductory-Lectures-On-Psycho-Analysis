@@ -29,3 +29,6 @@ ebooks/New-Introductory-Lectures-On-Psycho-Analysis.epub : New-Introductory-Lect
 
 ebooks/New-Introductory-Lectures-On-Psycho-Analysis.mobi : ebooks/New-Introductory-Lectures-On-Psycho-Analysis.epub
 	kindlegen ebooks/New-Introductory-Lectures-On-Psycho-Analysis.epub
+
+clean :
+	$(RM) ebooks/* index.html styles/ebook.css
