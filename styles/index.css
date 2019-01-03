@@ -93,9 +93,8 @@ section p:first-of-type, p.date
 section#new-introductory-lectures-on-psycho-analysis > h1:first-of-type
 { display: none; }
 
-.footnote-ref
-{ font-size: small;
-  vertical-align: text-top; }
+.footnotes ol
+{ list-style: none; }
 
 sup
 { line-height: 0; }
